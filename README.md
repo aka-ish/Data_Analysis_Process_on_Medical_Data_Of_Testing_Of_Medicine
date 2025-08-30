@@ -32,6 +32,6 @@ Steps for approaching data and to about what i learnt in this notebook is
 ## Steps involved in Data cleaning ->
                                       1. Define
                                       2. Code 
-T                                     3. Test
+                                      3. Test
 
                     
