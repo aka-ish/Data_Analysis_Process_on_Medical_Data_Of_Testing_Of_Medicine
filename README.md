@@ -13,21 +13,24 @@ Steps for approaching data and to about what i learnt in this notebook is
    describe(),sample().
 
 ## NOTE -> Assessing data is an iterative process.
-## Data Qualtiy Dimensions  - . Completeness -> is Data Missing?
+## Data Qualtiy Dimensions  - 
+                              . Completeness -> is Data Missing?
                               . Validity -> is data invalid -> negative height -> duplicate patient_id 
                               . Accuracy -> data is valid but not accurate -> weight -> 1Kg 
                               . Consistency -> both valid and accurate but written differently -> New York as NY
 
 # Order of Severity -> Completeness <- Validity <- Accuracy <- Consistancy 
 
-## Data Cleaning Order - 1. Quality -> Completeness(Handling Missing Values)
+## Data Cleaning Order - 
+                          1. Quality -> Completeness(Handling Missing Values)
                           2. Tidiness 
                           3. Quality -> Validity
                           4. Quality -> Acuracy 
                           5. Quality -> Consistency 
                           
  
-## Steps involved in Data cleaning -> 1. Define
+## Steps involved in Data cleaning ->
+                                      1. Define
                                       2. Code 
 T                                     3. Test
 
