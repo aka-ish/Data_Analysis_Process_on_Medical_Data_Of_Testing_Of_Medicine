@@ -19,7 +19,8 @@ Steps for approaching data and to about what i learnt in this notebook is
                               . Accuracy -> data is valid but not accurate -> weight -> 1Kg 
                               . Consistency -> both valid and accurate but written differently -> New York as NY
 
-# Order of Severity -> Completeness <- Validity <- Accuracy <- Consistancy 
+# Order of Severity ->
+                    - Completeness <- Validity <- Accuracy <- Consistancy 
 
 ## Data Cleaning Order - 
                           1. Quality -> Completeness(Handling Missing Values)
